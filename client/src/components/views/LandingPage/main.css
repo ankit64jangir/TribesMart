@@ -1,0 +1,24 @@
+.site-card-border-less-wrapper {
+    padding: 30px;
+    background: #ececec;
+    margin: 20px;
+    border-radius: 10px;
+  }
+
+.site-card-border-less-wrapper-category {
+    padding: 30px;
+    background: #ececec;
+    margin: 100px;
+    border-radius: 10px;
+  }
+
+.site-card-border-less-wrapper-landing {
+    padding: 30px;
+    background: #ececec;
+    margin: 100px;
+    border-radius: 10px;
+  }
+
+  .roundCorner{
+      border-radius: 10px;
+  }
